@@ -1,0 +1,4 @@
+.circuit # A loop of wire
+    R1 GND 2      0
+    R2 2   GND    0
+.end

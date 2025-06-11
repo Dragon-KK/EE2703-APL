@@ -1,0 +1,3 @@
+.circuit # Just a lone wire
+R1 GND n1 0
+.end

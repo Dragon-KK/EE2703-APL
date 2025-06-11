@@ -1,0 +1,6 @@
+.circuit # A wire as a branch
+R3 n3 n4 0
+R2 n3 n4 1
+R1 n4 GND 2
+V1 n3 GND dc 2
+.end
